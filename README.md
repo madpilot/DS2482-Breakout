@@ -2,7 +2,7 @@
 
 Eagle layout for a breakout board for the Maxim DS2482 I2C to 1-wire chip
 
-!(https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/c822edcd17d805c57f6984b0aa2cb01e.png) !(https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/e076e6471cf0fa1e368f836e1539cffc.png)
+![Top Layer](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/c822edcd17d805c57f6984b0aa2cb01e.png) ![Bottom LAayer](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/e076e6471cf0fa1e368f836e1539cffc.png)
 
 **This is a work in progress! I just sent the boards off to OSH Park for etching, so I haven't confirmed it _actually_ works yet.**
 
