@@ -19,7 +19,7 @@ Eagle layout for a breakout board for the Maxim DS2482 I2C to 1-wire chip
 4. The SCL pin on the I2C interface
 5. The SDA pin on the I2C interface
 
-## Ardiuno Same code
+## Ardiuno Sample code
 
 Coming soon...
 
