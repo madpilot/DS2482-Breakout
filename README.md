@@ -8,16 +8,16 @@ Eagle layout for a breakout board for the Maxim DS2482 I2C to 1-wire chip
 
 ## Components
 
-1 x Maxim DS2482 Single-Channel 1-Wire Master
-2 x 1.2k SMD resistors (Package: M0805 )
+* 1 x Maxim DS2482 Single-Channel 1-Wire Master
+* 2 x 1.2k SMD resistors (Package: M0805 )
 
 ## Pin out of connector (looking component side up, connector on the left)
 
-1: Vcc - Nominally 5V. You can use 3.3V but the pull up resistors probably nned to be changed
-2: 1-wire - the 1-wire network wire
-3: Ground.
-4: The SCL pin on the I2C interface
-5: The SDA pin on the I2C interface
+1. Vcc - Nominally 5V. You can use 3.3V but the pull up resistors probably nned to be changed
+2. 1-wire - the 1-wire network wire
+3. Ground.
+4. The SCL pin on the I2C interface
+5. The SDA pin on the I2C interface
 
 ## Ardiuno Same code
 
