@@ -1,3 +1,5 @@
+View this project on [CADLAB.io](https://cadlab.io/node/820). 
+
 # DS2482 Breakout
 
 Eagle layout for a breakout board for the Maxim DS2482 I2C to 1-wire chip
